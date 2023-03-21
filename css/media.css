@@ -1,0 +1,446 @@
+@media(max-width:1199px){
+    .events-info h5 {
+        font-size: 30px;
+    }
+    .events-info h1 {
+        font-size: 32px;
+    }
+    .events-info p {
+        margin-top: 12px;
+    }
+}
+@media(max-width:991px){
+    .navbar-toggler {
+        margin: 11px 0;
+    }
+    .nav-item {
+        text-align: center;
+        margin: 8px;
+    }
+    .nav-link {
+        display: inline-block;
+    }
+    .nav-link:hover {
+        display: inline-block;
+    }
+    .delivery-num {
+        font-size: 15px;
+    }
+    .header-title h5 {
+        font-size: 15px;
+    }
+    .header-title-2 h1 {
+        font-size: 65px;
+    }
+    .header-burger {
+        width: 90%;
+        margin: auto;
+    }
+    .price_box h4 {
+        font-size: 22px;
+    }
+    .price_box h6 {
+        font-size: 11px;
+    }
+    .price_box {
+        padding: 10px;
+    }
+    .price {
+        display: inline-block;
+        padding: 8px;
+        border-radius: 100px;
+        background: rgb(191, 34, 34);
+        position: absolute;
+        left: 57%;
+        top: 71%;
+        transform: translate(-57%, -71%);
+        color: rgb(255, 255, 255);
+    }
+    .banner-vh {
+        min-height: 65vh;
+    }
+    .bug-gallery-item-3 {
+        margin-top: 19px;
+    }
+    .burger-img-left h2 {
+        font-size: 30px;
+        margin-top: 8px;
+    }
+    .burger-img-right-1 h2 {
+        font-size: 35px;
+        margin-top: 8px;
+    }
+    .burger-img-right-1 h1 {
+        font-size: 35px;
+        margin-top: 12px;
+    }
+    .events-info h5 {
+        font-size: 25px;
+    }
+    .events-info h1 {
+        font-size: 20px;
+    }
+    .events-info p {
+        margin-top: 30px;
+        font-size: 12px;
+    }
+    .footer-contact {
+        padding: 10px;
+    }
+
+}
+@media(max-width:767px){
+    
+    .navbar-toggler {
+        margin: 11px 0;
+    }
+    .nav-item {
+        text-align: center;
+        margin: 8px;
+    }
+    .nav-link {
+        display: inline-block;
+    }
+    .nav-link:hover {
+        display: inline-block;
+    }
+    .delivery-num {
+        font-size: 8px;
+    }
+    .header-title {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 55%;
+        margin: auto;
+        text-align: center;
+    }
+    .header-title h5 {
+        font-size: 17px;
+    }
+    .header-title-2 {
+        text-align: center;
+    }
+    .header-title-2 h1 {
+        font-size: 55px;
+    }
+    .header-title-2 h2 {
+        font-size: 50px;
+    }
+    .header-burger{
+        width: 70%;
+        margin: auto;
+    }
+    .price_box h4 {
+        font-size: 22px;
+    }
+    .price_box h6 {
+        font-size: 11px;
+    }
+    .banner-element {
+        display: none;
+    }
+    .price_box {
+        padding: 10px;
+    }
+    .price {
+        display: inline-block;
+        padding: 8px;
+        border-radius: 100px;
+        background: rgb(191, 34, 34);
+        position: absolute;
+        left: 30%;
+        top: 87%;
+        transform: translate(-30%, -87%);
+        color: rgb(255, 255, 255);
+    }
+    .order-item {
+        margin: auto;
+        border-bottom: 1px solid;
+        padding: 30px;
+    }
+    .events-info {
+        text-align: center;
+    }
+    .events-info p {
+        font-size: 15px;
+        margin-bottom: 25px;
+    }
+    .events-carousel .owl-dots {
+        top: 92%;
+        left: 50%;
+        transform: translatex(-50%);
+    }
+    .form-part {
+        display: inline-block;
+    }
+    .banner-bottel {
+        display: none;
+    }
+    .banner-plate {
+        width: 10%;
+        position: absolute;
+        top: 10%;
+        right: -6%;
+        transform: translate(-42%, -13%);
+    }
+    .footer-cont p {
+        text-align: center;
+    }
+    .footer-content-right {
+        justify-content: start !important;
+        margin-left: 30px;
+    }
+
+}
+@media(max-width:575px){
+    .navbar-toggler {
+        margin: 11px 0;
+    }
+    .nav-item {
+        text-align: center;
+        margin: 8px;
+    }
+    .nav-link {
+        display: inline-block;
+    }
+    .nav-link:hover {
+        display: inline-block;
+    }
+    .delivery-num {
+        font-size: 8px;
+    }
+    .header-title {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 55%;
+        margin: auto;
+        text-align: center;
+    }
+    .header-title h5 {
+        font-size: 17px;
+    }
+    .header-title-2 {
+        text-align: center;
+    }
+    .header-title-2 h1 {
+        font-size: 55px;
+    }
+    .header-title-2 h2 {
+        font-size: 50px;
+    }
+    .header-burger {
+        width: 55%;
+        margin: auto;
+    }
+    .price_box h4 {
+        font-size: 22px;
+    }
+    .price_box h6 {
+        font-size: 11px;
+    }
+    .price_box {
+        padding: 10px;
+    }
+    .price {
+        display: inline-block;
+        padding: 8px;
+        border-radius: 100px;
+        background: rgb(191, 34, 34);
+        position: absolute;
+        left: 25%;
+        top: 87%;
+        transform: translate(-25%, -87%);
+        color: rgb(255, 255, 255);
+    }
+    .burger-img-left h2 {
+        font-size: 30px;
+        margin-top: 10px;
+    }
+    .burger-img-right-1 h2 {
+        font-size: 30px;
+        margin-top: 8px;
+    }
+    .burger-img-right-1 h1 {
+        font-size: 30px;
+        margin-top: 8px;
+    }
+    .order-item {
+        margin: 35px auto;
+        border-bottom: 1px solid;
+        padding: 30px;
+    }
+    .events-info {
+        text-align: center;
+    }
+    .events-info p {
+        font-size: 15px;
+        margin-bottom: 25px;
+    }
+    .events-carousel .owl-dots {
+        top: 92%;
+        left: 50%;
+        transform: translatex(-50%);
+    }
+    .banner-element {
+        display: none;
+    }
+    .form-part {
+        display: inline-block;
+    }
+    .banner-bottel {
+        display: none;
+    }
+    .banner-plate {
+        width: 12%;
+        top: 10%;
+    }
+    .footer-copy p {
+        font-size: 8px;
+    }
+    .footer-icon ul li {
+        margin: 5px;
+    }
+    .footer-icon ul li i {
+        font-size: 12px;
+    }
+    .footer-cont p {
+        text-align: center;
+    }
+
+}
+@media(max-width:320px){
+    .navbar-toggler {
+        margin: 11px 0;
+    }
+    .nav-item {
+        text-align: center;
+        margin: 5px;
+    }
+    .nav-link {
+        display: inline-block;
+    }
+    .nav-link:hover {
+        display: inline-block;
+    }
+    .header-title-2 h1 {
+        font-size: 50px;
+        text-align: center;
+    }
+    .header-title-2 h2 {
+        text-align: center;
+    }
+    .header-title {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .header-title h5 {
+        font-size: 15px;
+    }
+    .header-burger {
+        width: 90%;
+        margin: auto;
+    }
+    .price_box {
+        padding: 20px;
+        border-radius: 50%;
+        height: 50%;
+        width: 100%;
+    }
+    .price_box h4 {
+        font-size: 22px;
+    }
+    .price_box h6 {
+        font-size: 14px;
+    }
+    .banner-vh {
+        min-height: 60vh;
+    }
+    .price {
+        padding: 6px;
+        top: 77%;
+    }
+    .header-content {
+        margin: auto;
+    }
+    .header-delivery-info {
+        display: flex;
+        align-items: center;
+    }
+    .delivery-num {
+        font-size: 8px;
+        text-align: center;
+    }
+    .delivery-pic {
+        width: 60%;
+    }
+    .burger-img-left h2 {
+        font-size: 25px;
+    }
+    .burger-img-left h3 {
+        font-size: 19px;
+    }
+    .burger-img-right-1 h3 {
+        font-size: 17px;
+    }
+    .burger-img-right-1 h2 {
+        font-size: 30px;
+    }
+    .burger-img-right-1 h1 {
+        font-size: 32px;
+    }
+    .order-item {
+        margin-bottom: 35px;
+    }
+    .events-info p {
+        margin: 25px 0;
+        font-size: 13px;
+        text-align: center;
+    }
+    .events-carousel .owl-dots {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .events-carousel .owl-dots .owl-dot {
+        height: 10px;
+        width: 10px;
+    }
+    .events-info {
+        text-align: center;
+    }
+    .form-part {
+        display: inline-block;
+    }
+    .banner-plate {
+        top: 15%;
+    }
+    .banner-bottel {
+        display: none;
+    }
+    .footer-cont p {
+        margin-top: 32px;
+        font-size: 13px;
+        text-align: center;
+    }
+    .footer-contact {
+        display: flex;
+        justify-content: center;
+    }
+    .footer-contact ul li a {
+        font-size: 14px;
+    }
+    .footer-icon ul li i {
+        font-size: 12px;
+    }
+    .footer-icon ul li {
+        margin: 4px;
+    }
+    .footer-copy p {
+        font-size: 7px;
+    }
+    .banner-element {
+        display: none;
+    }
+}
